@@ -19,8 +19,8 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    Srini:
-      name:           Srinivas
+    srini:
+      name:           Srini
       site:           https://www.srinivasakumar.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "I'm an Entrepreneur, SAP Developer, Flutter Mobile App Developer, Marketer and Photographer."
