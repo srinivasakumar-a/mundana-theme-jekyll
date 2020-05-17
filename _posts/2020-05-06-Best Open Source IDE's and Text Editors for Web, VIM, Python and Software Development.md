@@ -28,7 +28,7 @@ The Excel list below showcases Best Opensource IDE's/Text Editors sorted based o
 #### Vscode
 Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation and understanding support along with lightweight debugging, a rich extensibility model and lightweight integration with existing tools.
 
-![]({{site.baseurl}}/images/01texteditor/vscode.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/vscode.jpg)
 
 One of the most happening and developer preferred code editor with the following features which are increasing with every new release:
 
@@ -43,7 +43,7 @@ One of the most happening and developer preferred code editor with the following
 #### Atom
 A hackable text editor for the 21st Century. Great things happen when developers work together – from teaching and sharing knowledge to building better software. Teletype for Atom makes collaborating on code just as easy as it is to code alone, right from your editor.
 
-![]({{site.baseurl}}/images/01texteditor/atom.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/atom.jpg)
 
 Work with Git and GitHub directly from Atom with the GitHub package. Create new branches, stage and commit, push and pull, resolve merge conflicts, view pull requests and more – all from within your editor. The GitHub package is already bundled with Atom, so you’re ready to go!
 
@@ -67,7 +67,7 @@ Its usage includes strong defaults, works the same everywhere: one build-type, o
 #### Brackets
 A modern, light weight, Open Source text editor that understands web design. Visual tools are blended into the editor so that the developer gets the right amount of help when wanted without getting in the way of design and creative process.
 
-![]({{site.baseurl}}/images/01texteditor/brackets.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/brackets.jpg)
 
 Brackets editor lets you open a window when push `command` / `Ctrl+E` to you all the selector with that ID. Live Preview to get real-time connection to your browser when changes in CSS and HTML are to be viewed. With Brackets you can use Quick Edit and Live Highlight with your LESS and SCSS files which will make working with them easier than ever.
 It can be installed on all the big platforms, Windows, Mac & Linux and have support for extensions to augment the additional functions.
@@ -77,7 +77,7 @@ It can be installed on all the big platforms, Windows, Mac & Linux and have supp
 #### Spacemacs
 A community driven Emacs distribution (The best editor is neither Emacs or VIM, its Emacs and VIM). Spacemacs is a new way to experience Emacs – a sophisticated and polished set-up focused on ergonomics, mnemonics and consistency.
 
-![]({{site.baseurl}}/images/01texteditor/spacemacs.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/spacemacs.jpg)
 
 Spacemacs consists of Four Core pillars: Mnemonic, Discoverable, Consistent and “Crowd-Configured”:
 * Mnemonic: Key binding are organized using mnemonic prefixes like `b` for buffer, `p` for project, `s` for search, `h` for help etc.
@@ -92,7 +92,7 @@ An Open source API compatible alternative to the text editor Sublime Text. If yo
 
 Sublime has good plugin architecture and a large collection of existing plugins created for it. We want users to be able to take advantage of these extensions without requiring developers to support multiple APIs.
 
-![]({{site.baseurl}}/images/01texteditor/lime.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/lime.jpg)
 
 Lime has a few frontends (QML, command-line interface) that can be selectively used with the pluggable backend. You can even develop your own and make it a drop-in replacement!
 
@@ -101,7 +101,7 @@ Lime has a few frontends (QML, command-line interface) that can be selectively u
 #### SpaceVIM
 is a community driven modular VIM distribution. It manages collections of plugins in layers, which help to collect related packages together to provide IDE like features. SpaceVIM is not just a VIMRC but an ultimate VIM configuration.
 
-![]({{site.baseurl}}/images/01texteditor/spacevim.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/spacevim.jpg)
 
 Highlighted features:
 * Great documentation: access documentation in SpaceVIM with `:h spacevim`.
@@ -118,7 +118,7 @@ Highlighted features:
 #### Micro
 is a terminal based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. It comes as a single batteries-included, static binary with no dependencies; you can download and use it right now!
 
-![]({{site.baseurl}}/images/01texteditor/micro.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/micro.jpg)
 
 As its name indicates, Micro aims to be somewhat of a successor to the nano editor by being easy to install and use. It strives to be enjoyable as a full-time editor for people who prefer to work in a terminal or those who regularly edit files over SSH. It features include, Easy to use, Highly customizable, Colors and Highlighting, Multiple Cursors, Plugin System, Common Keybindings, Mouse Support, Terminal Emulator and many more.
 
@@ -127,7 +127,7 @@ As its name indicates, Micro aims to be somewhat of a successor to the nano edit
 #### TextMate
 for macOS: Powerful and customizable text editor with support for a huge list of programming languages and developed as open source. This Editor has support for Multiple Carets, i.e., making multiple changes at once; swapping pieces of code and a lot more is made trivial with TextMate’s easy way to add multiple insertion points.
 
-![]({{site.baseurl}}/images/01texteditor/textmate.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/textmate.jpg)
 
 One file mixing languages? Projects using different build systems? Third party code with different formatting preferences? Textmate can handle it all by associating detailed scope selectors with key shortcuts, settings. Clipboard history, custom themes, live HTML/Markdown preview, foldable code blocks, indented soft wrap, etc.
 
@@ -136,7 +136,7 @@ One file mixing languages? Projects using different build systems? Third party c
 #### LightTable
 is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
 
-![]({{site.baseurl}}/images/01texteditor/lighttable.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/lighttable.jpg)
 
 One of the Top 10 highest Technology project on Kickstarter and includes features as below:
 * Watches: Next-gen `println` to keep track of important values in your code. Just add a watch to an expression and the value will be streamed back to LT in real time.
@@ -151,7 +151,7 @@ One of the Top 10 highest Technology project on Kickstarter and includes feature
 #### IntelliJ IDEA
 Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.
 
-![]({{site.baseurl}}/images/01texteditor/intellij.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/intellij.jpg)
 
 Features include:
 1. Deep insight into your code
@@ -194,7 +194,7 @@ Microsoft’s downloads of Visual Studio Code are licensed under “this not FLO
 #### Overleaf
 is an Open-source online real-time collaborative LaTeX editor. Overleaf is an online collaborative writing and publishing tool that makes the whole process of writing, editing and publishing scientific documents much quicker and easier and provides the convenience of an easy-t-use LaTeX editor with real-time collaboration and the fully compiled output produced automatically in the background as you type.
 
-![]({{site.baseurl}}/images/01texteditor/overleaf.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/overleaf.jpg)
 
 It has a different Licensing models for cloud hosted applications with multiple target users including, Authors, Groups, Teachers, Institutions, Publishers and enterprises. However, the standalone hosting is free and open source.
 
@@ -216,7 +216,7 @@ The features include:
 #### Slap
 is a Sublime-like terminal-based text editor that strives to make editing from the terminal easier. It has first class mouse support (even over an SSH Connection). A Sublime-like file sidebar. Double-click to select word, highlight other occurrences. Configurable Sublime-like keybindings* (`Ctrl+S` save, `Ctrl+Z` undo, etc.). Copying/pasting with OS Clipboard support. Infinite undo/redo.
 
-![]({{site.baseurl}}/images/01texteditor/slap.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/slap.jpg)
 
 Its features include Syntax highlighting for 100+ languages, bracket matching, auto indentation, heavily customizable via plugins and many other features that will make you leave nano, VIM and EMACS behind.
 
@@ -225,7 +225,7 @@ Its features include Syntax highlighting for 100+ languages, bracket matching, a
 #### Oni2
 Onivim 2 is a retro-futuristic modal editor – the next iteration of the Onivim project – combining VIM Style modal editing with the aesthetics and language features of modern editors.
 
-![]({{site.baseurl}}/images/01texteditor/oni2.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/oni2.jpg)
 
 Features include:
 * Fast, native, cross-platform with instant startup
@@ -237,7 +237,7 @@ Features include:
 #### ALM
 A cloud ready IDE for TypeScript and is an extension of the language itself, not the other way around. A complete dev and analysis environment for TypeScript. Easy to install `npm install alm –g`. Easy to use: `alm`. All you need is the latest `chrome` and the latest `nodejs`.
 
-![]({{site.baseurl}}/images/01texteditor/alm.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/alm.jpg)
 
 This project is also a demonstration on real world usage TypeScript + React + Redux + Socket IO + FreeStyle (CSSinJS) + Microsoft Monaco. If you want to experiment with these and create your own code editor, head on to the source code.
 
@@ -246,7 +246,7 @@ This project is also a demonstration on real world usage TypeScript + React + Re
 #### Notepads
 A modern, lightweight text editor with a minimalist design.
 
-![]({{site.baseurl}}/images/01texteditor/notepads.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/notepads.jpg)
 
 This includes some features like:
 * Fluent design with a built-in tab system.
@@ -275,7 +275,7 @@ Developers get bare bones, simple yet powerful editor that focuses on what matte
 #### KomodoEdit
 is a fast and free multi-language code editor, written in JS, Python, and C++ and based on Mozilla platform. This Editor provides more robust functionality such as debugging, unit testing, code refactoring and code profiling. There are two flavors KOMODO EDIT and KOMODO IDE
 
-![]({{site.baseurl}}/images/01texteditor/komodoedit.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/komodoedit.jpg)
 
 The feature list between EDIT and IDE versions are noticeable and IDE has more features like:
 * Advanced Editor
@@ -292,7 +292,7 @@ The feature list between EDIT and IDE versions are noticeable and IDE has more f
 #### Caret
 Based on the amazing Ace Editing component, Caret brings professional Strength text editing to Chrome OS. With Caret, you no longer need to install a second OS to get what other platforms take for granted, a serious editor for local files, aimed at working programmers.
 
-![]({{site.baseurl}}/images/01texteditor/caret.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/caret.jpg)
 
 Its Features Includes:
 * Syntax highlighting and themes
@@ -310,7 +310,7 @@ Its Features Includes:
 #### Leo Editor
 is a PIM, IDE and outliner that accelerates the workflow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline.
 
-![]({{site.baseurl}}/images/01texteditor/leoeditor.jpg)
+![]({{site.baseurl}}/assets/images/01texteditor/leoeditor.jpg)
 
 Leo completely integrates Python scripting and outlines. Simulating the following features in VIM, Emacs or Eclipse is possible, just as it is possible to simulate Python in assembly language. The unique feature list includes:
 * All commands and Scripts have easy access to outline structure via a simple Python API.
