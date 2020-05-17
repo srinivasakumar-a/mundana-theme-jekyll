@@ -20,10 +20,11 @@ This site hosts all of my writings related to:
 
 This is more than a blog too, as I Publish notes on everything I learn from Books, Articles, Podcasts, Blogs and Videos I watch.
 
-If you like my blog, I shall be happy to share the newsletter, the "Biweekly Bytes". It's one email once in two weeks with everything interesting I've read or found, plus new articles and book notes from me.
+If you like my blog, I shall be happy to share the newsletter, the "Biweekly Bytes".  
+It's one email once in two weeks with everything interesting I've read or found, plus new articles and book notes from me.
 
 Happy Reading,
 
-[Twitter](https://twitter.com/ASrinivasaKumar/)
-[Facebook](https://www.facebook.com/sriniak)
-[LinkedIn](https://www.linkedin.com/in/sriniak)
+[Twitter](https://twitter.com/ASrinivasaKumar/)  
+[Facebook](https://www.facebook.com/sriniak)  
+[LinkedIn](https://www.linkedin.com/in/sriniak)  
